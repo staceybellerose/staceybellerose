@@ -18,6 +18,7 @@ More ideas:
 
 ### Connect with me:
 
+[<img align="left" alt="Stacey Adams | Email" height="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/regular/envelope.svg" />][email]
 [<img align="left" alt="Stacey Adams | GitHub" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />][githubprofile]
 [<img align="left" alt="Stacey Adams | LinkedIn" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Stacey's App Boutique | Google Play Store" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
@@ -61,6 +62,7 @@ More ideas:
 
 <img alt="Stacey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staceybellerose&hide=Jupyter%20Notebook&hide_border=true" />
 
+[email]: mailto:stacey.belle.rose@gmail.com
 [githubprofile]: https://github.com/staceybellerose
 [website]: https://staceyadams.me
 [linkedin]: https://linkedin.com/in/staceyadams1
