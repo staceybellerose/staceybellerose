@@ -1,4 +1,4 @@
-<img align="right" alt="Octocat Mom" src="https://github.com/staceybellerose/staceybellerose/blob/master/assets/octocat-mom.png" />
+<img align="right" alt="Octocat Mom" src="https://github.com/staceybellerose/staceybellerose/blob/main/assets/octocat-mom.png?raw=true" />
 
 ### Hi there, I'm Stacey 👋
 
