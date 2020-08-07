@@ -64,6 +64,8 @@ More ideas:
 
 <img alt="Stacey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staceybellerose&hide=Jupyter%20Notebook&hide_border=true" />
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#435](https://github.com//gitahead/gitahead/issues/435) in [gitahead/gitahead](https://github.com//gitahead/gitahead)
 <!--END_SECTION:activity-->
