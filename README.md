@@ -1,6 +1,6 @@
 ### Hi there, I'm Stacey 👋
 
-<img align="right" alt="Octocat Mom" src="assets/octocat-mom.png" />
+<img align="right" alt="Octocat Mom" src="https://github.com/staceybellerose/staceybellerose/blob/master/assets/octocat-mom.png" />
 
 - 🔭 I’m currently working on <img src="https://github.com/github/explore/blob/af16e074f93c080d7b283815787283cab0e9414b/topics/covid-19/covid-19.png" height="14px" /> [COVID-19 data analysis](https://github.com/staceybellerose/covid19-jupyter)
 - 📖 I’m currently studying data science
@@ -23,7 +23,7 @@ More ideas:
 [<img align="left" alt="Stacey's App Boutique | Google Play Store" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
 
 <br />
-<div style="clear:both" />
+<br />
 
 ### Languages and Tools:
 
@@ -53,21 +53,16 @@ More ideas:
 <img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/terminal.svg" />
 
 <br />
-<div style="clear:both"></div>
+<br />
 
 ### Special Projects:
 
 [<img alt="Hacktoberfest 2019" src="https://github.com/github/explore/blob/52f9c384026c08a42543c8018f6d978ff3e24135/topics/hacktoberfest/hacktoberfest.png" />][hacktoberfest]
 
-<br />
-<div style="clear:both"></div>
 
-<img align="left" alt="Stacey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=staceybellerose&show_icons=true&hide_border=true&include_all_commits=true" />
+<img alt="Stacey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=staceybellerose&show_icons=true&hide_border=true&include_all_commits=true" />
 
-<br />
-<div style="clear:both"></div>
-
-<img align="left" alt="Stacey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staceybellerose&hide=Jupyter%20Notebook&hide_border=true" />
+<img alt="Stacey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staceybellerose&hide=Jupyter%20Notebook&hide_border=true" />
 
 [website]: https://staceyadams.me
 [linkedin]: https://linkedin.com/in/staceyadams1
