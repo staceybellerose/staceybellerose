@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="Stacey Adams" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/36b618fb260c245ea35dc7b19117405d31308102/svg/globe.svg" />][website]
-[<img align="left" alt="Stacey Adams | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Stacey's App Boutique | Google Play Store" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
+[<img align="left" alt="Stacey Adams" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/36b618fb260c245ea35dc7b19117405d31308102/svg/globe.svg" />][website]
+[<img align="left" alt="Stacey Adams | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Stacey's App Boutique | Google Play Store" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
 
+<br />
 <br />
 
 ### Languages and Tools:
@@ -53,11 +54,13 @@ Here are some ideas to get you started:
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+<br />
 
 ### Special Projects:
 
 [<img alt="Hacktoberfest 2019" src="https://github.com/github/explore/blob/52f9c384026c08a42543c8018f6d978ff3e24135/topics/hacktoberfest/hacktoberfest.png" />][hacktoberfest]
 
+<br />
 <br />
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=staceybellerose&show_icons=true&hide_border=true" />
