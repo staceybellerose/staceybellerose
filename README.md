@@ -67,7 +67,7 @@ More ideas:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#435](https://github.com//gitahead/gitahead/issues/435) in [gitahead/gitahead](https://github.com//gitahead/gitahead)
+1. ❗️ Opened issue [#87](https://github.com//rossjrw/rossjrw/issues/87) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
 <!--END_SECTION:activity-->
 
 [website]: https://staceyadams.me
