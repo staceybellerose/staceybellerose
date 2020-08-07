@@ -1,6 +1,5 @@
 ### Hi there, I'm Stacey 👋
 
-<img align="right" alt="Octocat Mom" src="https://github.com/staceybellerose/staceybellerose/blob/master/assets/octocat-mom.png" />
 
 - 🔭 I’m currently working on <img src="https://github.com/github/explore/blob/af16e074f93c080d7b283815787283cab0e9414b/topics/covid-19/covid-19.png" height="14px" /> [COVID-19 data analysis](https://github.com/staceybellerose/covid19-jupyter)
 - 📖 I’m currently studying data science
@@ -67,6 +66,7 @@ More ideas:
 ### 📅 My Recent Commits:
 
 <!-- START gadpp -->
+- staceybellerose/staceybellerose, [refs/heads/master@feb6c719d359339a4b4ab0337ffab904602d3734](https://github.com/staceybellerose/staceybellerose/commit/feb6c719d359339a4b4ab0337ffab904602d3734)
 
 [githubprofile]: https://github.com/staceybellerose
 [website]: https://staceyadams.me
