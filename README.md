@@ -16,36 +16,39 @@ More ideas:
 
 ### Connect with me:
 
-[<img align="left" alt="Stacey Adams" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/36b618fb260c245ea35dc7b19117405d31308102/svg/globe.svg" />][website]
-[<img align="left" alt="Stacey Adams | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Stacey's App Boutique | Google Play Store" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
+[<img align="left" alt="Stacey Adams" height="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/36b618fb260c245ea35dc7b19117405d31308102/svg/globe.svg" />][website]
+[<img align="left" alt="Stacey Adams | LinkedIn" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Stacey's App Boutique | Google Play Store" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
 
 <br />
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="Kotlin" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />
-<img align="left" alt="Java" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="Android" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
-<img align="left" alt="Material Design" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png" />
-<img align="left" alt="Python" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Ruby" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
-<img align="left" alt="vim" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
-<img align="left" alt="Atom" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/atom/atom.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Jenkins" width="26px" src="https://github.com/github/explore/blob/4546263bd5739353083c33dada43f8f31e7d1fd6/topics/jenkins/jenkins.png" />
-<img align="left" alt="Gradle" width="26px" src="https://github.com/github/explore/blob/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png" />
-<img align="left" alt="Linux" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
-<img align="left" alt="Raspberry Pi" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png" />
-<img align="left" alt="Bash" width="26px" src="https://github.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" />
-<img align="left" alt="Powershell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
-<img align="left" alt="Markdown" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Kotlin" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/kotlin/kotlin.svg" />
+<img align="left" alt="Java" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/java/java.svg" />
+<img align="left" alt="Android" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/android-icon.svg" />
+<img align="left" alt="Material Design" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Material_Design_Logo.svg" />
+<img align="left" alt="Python" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" />
+<img align="left" alt="Ruby" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/ruby/ruby.svg" />
+<img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/html/html.svg" />
+<img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/css/css.svg" />
+<img align="left" alt="Javascript" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/javascript/javascript.svg" />
+<img align="left" alt="vim" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/vim.svg" />
+<img align="left" alt="Atom" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/atom.svg" />
+<img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/visual-studio-code.svg" />
+<img align="left" alt="SQL" height="26px" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/951a0d011f8c832991750c16136f8e260efa60b5/svgs/solid/database.svg" />
+<img align="left" alt="Jupyter Notebook" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/jupyter.svg" />
+<img align="left" alt="Git" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/git-icon.svg" />
+<img align="left" alt="GitHub" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/github-icon.svg" />
+<img align="left" alt="Jenkins" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/jenkins.svg" />
+<img align="left" alt="Gradle" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/gradle.svg" />
+<img align="left" alt="Linux" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/linux-tux.svg" />
+<img align="left" alt="Raspberry Pi" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/raspberry-pi.svg" />
+<img align="left" alt="Bash" height="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/61eff022f2dad3c7468f5deb4f06652d15f2c143/assets/Logos/Icons/SVG/64x64.svg" />
+<img align="left" alt="Powershell" height="26px" src="https://raw.githubusercontent.com/PowerShell/PowerShell/87b2581dd2907faf284690c2eab5c73b7e0b7fcc/assets/ps_black_64.svg" />
+<img align="left" alt="Markdown" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/markdown.svg" />
+<img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/terminal.svg" />
 
 <br />
 <br />
