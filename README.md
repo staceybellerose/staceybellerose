@@ -1,6 +1,6 @@
 ### Hi there, I'm Stacey 👋
 
-<div style="float: right"><img align="right" alt="Octocat Mom" src="https://github.com/staceybellerose/staceybellerose/blob/master/assets/octocat-mom.png" /><br />[<img align="right" alt="Hacktoberfest 2019" src="https://github.com/github/explore/blob/52f9c384026c08a42543c8018f6d978ff3e24135/topics/hacktoberfest/hacktoberfest.png" />][hacktoberfest]</div>
+<div style="float: right"><img alt="Octocat Mom" src="https://github.com/staceybellerose/staceybellerose/blob/master/assets/octocat-mom.png" /><br />[<img alt="Hacktoberfest 2019" src="https://github.com/github/explore/blob/52f9c384026c08a42543c8018f6d978ff3e24135/topics/hacktoberfest/hacktoberfest.png" />][hacktoberfest]</div>
 
 - 🔭 I’m currently working on <img src="https://github.com/github/explore/blob/af16e074f93c080d7b283815787283cab0e9414b/topics/covid-19/covid-19.png" height="14px" /> [COVID-19 data analysis](https://github.com/staceybellerose/covid19-jupyter)
 - 📖 I’m currently studying data science
