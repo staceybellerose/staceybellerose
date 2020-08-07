@@ -55,6 +55,7 @@ More ideas:
 <img align="left" alt="Terminal" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/terminal.svg" />
 
 <br clear="left" />
+<br />
 
 <img alt="Stacey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=staceybellerose&show_icons=true&hide_border=true&include_all_commits=true" />
 
