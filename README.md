@@ -18,9 +18,10 @@ More ideas:
 
 ### Connect with me:
 
-[<img align="left" alt="Stacey Adams" height="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/36b618fb260c245ea35dc7b19117405d31308102/svg/globe.svg" />][website]
+[<img align="left" alt="Stacey Adams | GitHub" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />][githubprofile]
 [<img align="left" alt="Stacey Adams | LinkedIn" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Stacey's App Boutique | Google Play Store" height="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googleplay.svg" />][playstore]
+[<img align="left" alt="Stacey Adams" height="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/36b618fb260c245ea35dc7b19117405d31308102/svg/globe.svg" />][website]
 
 <br />
 <br />
@@ -59,17 +60,15 @@ More ideas:
 
 [<img alt="Hacktoberfest 2019" src="https://github.com/github/explore/blob/52f9c384026c08a42543c8018f6d978ff3e24135/topics/hacktoberfest/hacktoberfest.png" />][hacktoberfest]
 
-
 <img alt="Stacey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=staceybellerose&show_icons=true&hide_border=true&include_all_commits=true" />
 
 <img alt="Stacey's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=staceybellerose&hide=Jupyter%20Notebook&hide_border=true" />
 
-### :zap: Recent Activity
+### 📅 My Recent Commits:
 
-<!--START_SECTION:activity-->
-1. ❗️ Opened issue [#87](https://github.com//rossjrw/rossjrw/issues/87) in [rossjrw/rossjrw](https://github.com//rossjrw/rossjrw)
-<!--END_SECTION:activity-->
+<!-- START gadpp -->
 
+[githubprofile]: https://github.com/staceybellerose
 [website]: https://staceyadams.me
 [linkedin]: https://linkedin.com/in/staceyadams1
 [playstore]: https://play.google.com/store/apps/developer?id=Stacey%27s+App+Boutique
