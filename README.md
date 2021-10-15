@@ -35,9 +35,12 @@ More ideas:
 <img align="left" alt="Material Design" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Material_Design_Logo.svg" />
 <img align="left" alt="Python" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/python/python.svg" />
 <img align="left" alt="Ruby" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/ruby/ruby.svg" />
+<img align="left" alt="RSpec" height="26px" src="https://dmlaziuk.github.io/images/rspec.png" />
+<img align="left" alt="Rails" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/16/Ruby_on_Rails-logo.png" />
 <img align="left" alt="HTML5" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/html/html.svg" />
 <img align="left" alt="CSS" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/css/css.svg" />
 <img align="left" alt="Javascript" height="26px" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/30a0ecf99188be99a3c75a00efb5be61eca9c382/src/javascript/javascript.svg" />
+<img align="left" alt="React" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/270px-React.svg.png" />
 <img align="left" alt="vim" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/vim.svg" />
 <img align="left" alt="Atom" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/atom.svg" />
 <img align="left" alt="Visual Studio Code" height="26px" src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/visual-studio-code.svg" />
