@@ -68,4 +68,4 @@ More ideas:
 [linkedin]: https://linkedin.com/in/staceyadams1
 [playstore]: https://play.google.com/store/apps/developer?id=Stacey%27s+App+Boutique
 
-<img src="https://github.com/staceybellerose/staceybellerose/blob/main/assets/tenor.git?raw=true" />
+<img src="https://github.com/staceybellerose/staceybellerose/blob/main/assets/tenor.gif?raw=true" />
